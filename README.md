@@ -13,24 +13,21 @@ To run this project locally, you will need to have Node.js and npm installed on 
 
 Clone the repository:
 
-bash
-
 git clone https://github.com/your-username/my-login-app.git
 cd my-login-app
+
 Install dependencies:
 
 Run the following command to install the required npm packages:
 
-bash
-
 npm install
+
 Start the development server:
 
 Start the application using the following command:
 
-bash
-
 npm start
+
 This will open the application in your default web browser at http://localhost:3000.
 
 Usage
